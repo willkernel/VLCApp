@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VLC-Demo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="video_layout_loading">正在加载…</string>
+    <string name="time_0">0:00</string>
+    <string name="title">标题</string>
+    <string name="volume">音量</string>
+    <string name="surface_best_fit">最为合适</string>
+    <string name="surface_fit_horizontal">水平匹配</string>
+    <string name="surface_fit_vertical">垂直匹配</string>
+    <string name="surface_fill">填充</string>
+    <string name="surface_original">居中</string>
+    <string name="brightness">亮度</string>
+    <string name="check_more">查看更多</string>
+
+</resources>
